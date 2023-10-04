@@ -42,4 +42,4 @@ elif page == "Visualisasi":
     plt.xticks(rotation=90)  # Rotasi label sumbu x menjadi vertikal
     plt.ylabel('Jumlah')
     plt.legend()
-    st.pyplot()
+    st.pyplot()
